@@ -1,0 +1,3 @@
+esa_league_of_legends_homepage:
+    path:     /
+    defaults: { _controller: esaLeagueOfLegendsBundle:Default:index }

@@ -1,0 +1,4 @@
+services:
+#    esa_league_of_legends.example:
+#        class: esa\LeagueOfLegendsBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
